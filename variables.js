@@ -30,3 +30,4 @@ else console.log("not lucky 13!")
 
 //CODE HERE
 for(let i = 0; i < 5; i++) console.log(faveNum)
+//Test comment

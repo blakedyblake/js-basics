@@ -17,9 +17,9 @@
 //CODE HERE
 
 let me = {
-  firstName = "blake",
-  state= "UTAH",
-  age = 23,
+  firstName : "blake",
+  state : "UTAH",
+  age : 23,
   greeter(){
     return `Hello! My name is ${this.firstName} and I live in ${this.state}`
   }

@@ -54,3 +54,4 @@ console.log(findZWords("Oz"));
 function iLove(name, love){
   return `${name} loves ${love}`
 }
+console.log("Blake", "Russian")

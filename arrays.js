@@ -49,3 +49,4 @@ function bigOrSmall(arr){
 }
 let testArr = [101, 0, 100]
 console.log(bigOrSmall(testArr))
+//Test comment
